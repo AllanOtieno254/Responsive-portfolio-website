@@ -1,0 +1,19 @@
+📁 Allan-Otieno-Portfolio-Responsive-Website
+│── 📁 assets
+│   ├── 📁 css
+│   │   ├── styles.css        # Main CSS file
+│   │   ├── responsive.css    # Media query styles
+│   │   ├── icons.css         # Styles for font icons
+│   ├── 📁 images
+│   │   ├── profile.jpg       # Your profile picture
+│   │   ├── background.jpg    # Background images
+│   │   ├── logo.png          # Logo (if available)
+│   ├── 📁 fonts
+│   │   ├── custom-font.ttf   # Custom font (if any)
+│   ├── 📁 js
+│   │   ├── script.js         # JavaScript for interactions
+│── 📁 cv
+│   ├── Allan_Otieno_CV.pdf   # Your downloadable CV
+│── index.html                # Main HTML file
+│── README.md                 # Documentation
+│── LICENSE                   # Open-source license (MIT recommended)
