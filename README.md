@@ -4,7 +4,7 @@
 https://github.com/user-attachments/assets/8bf016ff-c348-4cdf-8b7d-46a533f29f1b
 
 
-website deployed at: https://67ef0e723c996e154b1bcb96--bespoke-nasturtium-12263c.netlify.app/
+website deployed at Netlify: https://67efe023938c4d0a438d946f--admirable-speculoos-5894a6.netlify.app/
 
 Welcome to my personal portfolio website repository! This project is a fully **responsive** and **interactive** portfolio showcasing my skills, projects, and achievements in **Data Science, AI, and Web Development**. It features a downloadable **CV**, social media links, and a beautifully designed UI.
 
